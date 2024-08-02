@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "value": "Action"
+    },
+    {
+        "id": "2",
+        "value": "Adventure"
+    },
+    {
+        "id": "3",
+        "value": "Comedy"
+    },
+    {
+        "id": "4",
+        "value": "Drama"
+    },
+    {
+        "id": "5",
+        "value": "Horror"
+    }
+]

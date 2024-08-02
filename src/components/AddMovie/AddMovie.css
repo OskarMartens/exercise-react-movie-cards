@@ -1,0 +1,41 @@
+.add-movie-main{
+    border: 2px solid blue;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    max-width: fit-content;
+    align-content: space-around;
+    padding: 2rem;
+    gap: 2rem;
+}
+
+.section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+}
+
+.rating{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.title-section{
+    display: flex;
+}
+
+.rating-section{
+    display: flex;
+}
+
+.movie-submit{
+    align-self: center;
+    min-width: 10rem;
+}
+
+.desc-input{
+    width: 10rem;
+    
+}
